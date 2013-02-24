@@ -13,15 +13,9 @@ h1 {
 a:hover {
   text-decoration: none; }
 
-ul {
+.contacts {
   list-style: none;
   margin: 0; }
 
-li {
-  line-height: inherit; }
-
 icon {
   margin-top: 3px; }
-
-p {
-  text-indent: 32px; }
