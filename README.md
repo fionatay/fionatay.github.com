@@ -1,4 +1,4 @@
-fionatay.github.com
+tay.io
 ===================
 This is the source code for my homepage, http://tay.io, which is running on Github pages.
 
